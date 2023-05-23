@@ -1,4 +1,8 @@
-<div align='center' justify='center'>
+<div align='center'>
+
+# SirGolem
+  
+Hi, I am a hobby programmer interested in many aspects of development. I am most familiar with JavaScript/TypeScript, React, Next.js, TailwindCSS, Python and Unity/C#.
   
 ## Stats
 
