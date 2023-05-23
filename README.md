@@ -2,7 +2,7 @@
 
 # SirGolem
   
-Hi, I am a hobby programmer interested in many aspects of development. I am most familiar with JavaScript/TypeScript, React, Next.js, TailwindCSS, Python and Unity/C#.
+Hi, I am a hobby programmer interested in many aspects of development. I am most familiar with JavaScript/TypeScript, React, Next.js, TailwindCSS, Python and Unity/C#. I have built many Discord bots and websites, amongst other things.
   
 ## Stats
 
